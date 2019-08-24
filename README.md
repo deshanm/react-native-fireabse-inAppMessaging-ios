@@ -1,7 +1,7 @@
 # React Native Firebase InAppMessaging
 
 
-Replace this file with your GoogleService-Info.plist https://github.com/deshatom/react-native-fireabse-inAppMessaging-ios/blob/master/ios/GoogleService-Info.plist 
+**Replace this file** with your GoogleService-Info.plist https://github.com/deshatom/react-native-fireabse-inAppMessaging-ios/blob/master/ios/GoogleService-Info.plist 
 
 
 
